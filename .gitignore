@@ -1,0 +1,109 @@
+# ==========================================
+# Byte-compiled / optimized / DLL files
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================================
+# C extensions & Build / Distribution
+# ==========================================
+*.so
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==========================================
+# Virtual Environments (Pipenv, venv, poetry)
+# ==========================================
+venv/
+.venv/
+env/
+.env/
+env.bak/
+venv.bak/
+ENV/
+env.built/
+
+# =========================================
+# Environment Variables & Secrets
+# ==========================================
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# ==========================================
+# Unit Test & Coverage / Linting Outputs
+# ==========================================
+.htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+*.py.class
+.hypothesis/
+.pytest_cache/
+pytestdebug.log
+.mypy_cache/
+.ruff_cache/
+.pyre/
+
+# ==========================================
+# IDEs & Editors
+# ==========================================
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# PyCharm / IntelliJ
+.idea/
+
+# Cursor / Claude / AI Tools
+.cursor/
+.cursorrules
+
+# Jupyter Notebooks (кэш)
+.ipynb_checkpoints
+
+# ==========================================
+# Databases & Logs
+# ==========================================
+*.sqlite3
+*.db
+*.log
+
+# ==========================================
+# OS Generated Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
